@@ -1,4 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Imran Rosiadi==============================================================================================================================================I'm a Data Scientiest | Data Analyst from Indonesia---------------------------------------------------As a Mechanical Engineering graduate, I’ve ventured into the construction industry, where I honed my skills in project management and problem-solving. Currently, I’m pursuing a bootcamp in data science to merge my engineering background with data-driven decision-making. I’m passionate about leveraging analytics to optimize construction processes and enhance project outcomes. With a strong foundation in technical principles and a growing expertise in data analysis, I’m excited to tackle complex challenges and contribute to innovative solutions in the field.* 🌍  I'm based in Jakarta* ✉️  You can contact me at [mrosiadi3@gmail.com](mailto:mrosiadi3@gmail.com)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Imran Rosiadi==============================================================================================================================================
+
+I'm a Data Scientiest | Data Analyst from Indonesia
+---------------------------------------------------
+
+As a Mechanical Engineering graduate, I’ve ventured into the construction industry, where I honed my skills in project management and problem-solving. Currently, I’m pursuing a bootcamp in data science to merge my engineering background with data-driven decision-making. I’m passionate about leveraging analytics to optimize construction processes and enhance project outcomes. With a strong foundation in technical principles and a growing expertise in data analysis, I’m excited to tackle complex challenges and contribute to innovative solutions in the field.* 🌍  I'm based in Jakarta* ✉️  You can contact me at [mrosiadi3@gmail.com](mailto:mrosiadi3@gmail.com)
 
 ### Skills
 
